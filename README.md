@@ -1,11 +1,21 @@
 # ✨Boredom App ✨
 
 - An assessment test for one of the company I'm applying for a job
+- Making it as a based project flutter to move on future onwards 💅But might change though. Let's see
 
 ## Tech Stack
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/get-started/install) [![Static Badge](https://img.shields.io/badge/riverpod-blue?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAMAAAANxBKoAAAAolBMVEUAAABB0P0GS4lA0vxB0P0GRHlB0f5C1f4GRHlB0P0IWZ0GRHkIWZ1B0P1B0P0FR39B0P1B0P0IWZ1B0P1B0P1B0P0GRHlB0P0GSYRB0P0GRHkIWZ0GRHlB0P1B0P0GRHkIWZ1B0P0GRHkHVJUIWZ0GRHkGQ3hB0P0GRHlB0P0GRHkIWJsHTooHTYkIWZ1B0P0IWZ0GRHkHVJUGR34HTYoHSoRNOtcBAAAAL3RSTlMAogcJveYiEvbnu7uKhnNC9e%2Fes5xgXlMYzKJmUEI6KijWyqyWj357NzEh8%2FG7UvjL9lkAAAEnSURBVEjH7dDHdoMwEEBRIUQLBlzozb2mIFH%2B%2F9eCKT625Aiy8sZvfc9oNODdaxPPjmELj5l%2FWMVBs4wJiU9xiijH046WjdfOLBuvEy0brxWU%2FUObz%2BVUWwcGOzpgoIZs00tlRWRHJ1NqpuDJjYLW4QBpfaQGd69Dd6MSndECpe32%2BVglpPimtbjIqBYyqDtJpMo%2FGI3oW7QauGqJB7SGjKQ7xFIqOLNn64XRXKPDISEVo4Fdw0AwvbMC%2BuAlDiVCSMlq%2BWimNbzJpbvXr7SocrwF3Hy3lUWZ5xjjCRdbek0b2fbDw7HUWNw393lrbGp8s0OLWOojnq94%2BqSSCt8VAV4wJOX9HhBwu%2BgFhbn5%2B69%2B54jBbNDafl7trvvgsJ%2FsohV499J%2BAaowWBEY42gzAAAAAElFTkSuQmCC&color=4f96d0)](https://pub.dev/packages/flutter_riverpod)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/get-started/install) 
 - Flutter : **3.10.2**
+
+## Packages
+[![Static Badge](https://img.shields.io/badge/riverpod_2.4.0-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/flutter_riverpod)
+[![Static Badge](https://img.shields.io/badge/dio_5.3.3-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/dio)
+[![Static Badge](https://img.shields.io/badge/objectbox_2.2.0-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/objectbox)
+[![Static Badge](https://img.shields.io/badge/logger_2.0.2+1-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/logger)
+[![Static Badge](https://img.shields.io/badge/path_provider_2.1.1-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/path_provider)
+[![Static Badge](https://img.shields.io/badge/retry_3.1.2-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/retry)
+[![Static Badge](https://img.shields.io/badge/flutter_native_splash_2.3.2-navy?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAApVBMVEUAAAADXJ8BV5sqtvYqtvYBV5sBV5sqtvYqtvYBV5sqtvYiouMqtvYBV5sBV5sBV5sqtvYptfUBV5sqtvYBV5sqtvYBV5sBV5sqtvYEXaEBV5sqtvYqtvYqtvYBV5sZj9EqtvYBV5sqtvYBV5sqtvYBV5sqtvYBV5sBV5sqtvYqtvYZj9ErufkqtvYAVZkqtvYqtvYBV5sBV5sqtvYZj9EDXKADXaAMlqmQAAAAMnRSTlMABPfnUnZpGPLyaQnQh4FWEu%2Fv13o9NQ738uTe2tXUzsTBsaqlnJiSi4p%2BaVJGRTAnH9DqXfwAAADDSURBVEjH7dPJDoIwFEDRV1BA5hnneZ4t6v9%2Fmo0xaUKh6Vu4467P9kLbH3PCMDRZarozd113kowTW0nr5S%2FLxmju5Vr0cs2LThhdPgcGRr9oz8BoyjxCfz1BaOYDhGbtUJruUZp6FZ3JtMjN40iiqQ%2FV7gdd1JyL3bZRg6Yp1ESytVWrtaDhusuyX6O7pHHT8%2Bwt0WLXGKOBbAQtLR8KWpqP0vCYClqagdJQLLhWKdAwGpwV1yrlMUYD8VICiAoCbZg%2BcGJiNowueP8AAAAASUVORK5CYII%3D)](https://pub.dev/packages/flutter_native_splash)
 
 ## Target Platforms & OS
 - Platform: **Android** & **iOS**
@@ -13,12 +23,34 @@
 - iOS: 12.1
 
 ## Features
-- asdada
+- The user can get random activity
+- The user can specific type of activity and get that type random activity
+- The list of history of random activity that was shown to user before
 
 ## API Endpoints
 - `https://www.boredapi.com/api/activity`
 
-## 📡 Reach Out 📡
+## Getting Started
+***
+### Objectbox (Generate Object Box Database)
 
+### A
+1. flutter clean
+2. flutter pub get
+
+### B
+1. flutter pub run build_runner build --delete-conflicting-outputs
+2. flutter packages pub run build_runner build --delete-conflicting-outputs
+
+To generate Objectbox database do:
+**A** then **B1** or **B2**
+
+- It will generate `objectbox.g.dart` that `objectbox.g.dart` has some errors in the file.
+- To resolve the issue,
+  add `// ignore_for_file: camel_case_types, depend_on_referenced_packages, avoid_classes_with_only_static_members`
+  to top of the file.
+***
+
+## 📡 Reach Out 📡
 - **Owner** : 📩 Puteri
  Alyaa <[puteri.alyaa.afzan@gmail.com](mailto:puteri.alyaa.afzan@gmail.com)><br>
