@@ -19,7 +19,7 @@
 
 ## Target Platforms & OS
 - Platform: **Android** & **iOS**
-- Android: 21 - 30
+- Android: 21 - 33
 - iOS: 12.1
 
 ## Features
